@@ -1,0 +1,6 @@
+ p-1=>Welcome to my domain! This site was designed exclusively for those who are looking for my services, it is a pleasure to get to know each other,throughout the content of this site, you will find a section where we will talk about my personal history, another area will be my projects and study documentations, where you will have links to the repositories of each project, where there will be documentation that will complement those of this site...Let's start talking a little about me...
+ p-2=>My beginnings in the world of technology, began with the pandemic, I lost my job, and my projections about the future, collapsed.
+ p-3=> I felt I had to find a way out of my comfort zone.Exploring youtube I jumped a video of a youtuber named
+ a-1=>
+ a-2=>
+ a-3=>
